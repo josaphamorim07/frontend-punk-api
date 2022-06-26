@@ -9,6 +9,7 @@ export const GridDiv = styled.div`
 `;
 
 export const CardContainer = styled.div`
+
   width: 300px;
   overflow: hidden;
   border-radius: 8px;
@@ -23,6 +24,7 @@ export const CardContainer = styled.div`
     transform: scale(1.1);
     box-shadow: 0px 0px 15px 0px;
   }
+
 `;
 
 export const ImgDiv = styled.div`
@@ -56,4 +58,6 @@ export const CardContent = styled.div`
     font-size: 28px;
     margin-bottom: 0.5rem;
   }
+
+  
 `;

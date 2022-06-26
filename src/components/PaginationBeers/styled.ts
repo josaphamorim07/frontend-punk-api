@@ -11,4 +11,12 @@ export const ContainerPagination = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+
+  @media (max-width: 325px) {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+  }
 `;

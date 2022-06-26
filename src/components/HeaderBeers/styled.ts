@@ -15,7 +15,7 @@ export const HeaderContainer = styled.div`
 
   span {
     background: -webkit-linear-gradient(white, #38495a);
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
