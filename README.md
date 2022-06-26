@@ -4,42 +4,22 @@
   
 </div>
 
-
-
-
 ## 💻 About the project
 
-> É um projeto frontend aonde voce faz Login com emal para ter acesso a lista de cervejas da API.
+> It is a frontend project where you login with email to have access to the API beer list.
 
 ## ⚙️ Tools
-
- 
- > Figma UI: https://www.figma.com/file/1tMMZRB3YIReZG8sPEremT/Pokedex-(Community)?node-id=2%3A3
  
  > Punk Api: https://punkapi.com/documentation/v2
- 
- 
  > Material UI: https://mui.com/pt/
 
 ## ⚒️ Technologies used
 
-<table>
+>React js
+>Styled Components
+>Typescript
   
-  <tr>
-    <td> React</td>
-   
-    <td>styled-components</td>
-  </tr>
-  <tr>
-    <td>18.2.0</td>
-  
-    <td>5.3.5</td>
-    </tr>
-  </table>
-  
- 
-  
- ## 🚀 Para rodar esse projeto , siga abaixo:
+ ## 🚀 To run this project, follow below:
 
 
 ### Prerequisites for Frontend
@@ -48,7 +28,7 @@
 
  > Clone this repository
  
- * git clonehttps://github.com/josaphamorim07/frontend-punk-api.git
+ * git clone https://github.com/josaphamorim07/frontend-punk-api.git
   
  > access the project folder on your terminal/cmd
  * cd frontend-punk-api
