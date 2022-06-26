@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+#frontend punk api
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Voce pode fazer Login usando Email para ver a listagem de cervejas da Api:
 
-## Available Scripts
+Para rodar esse  projeto voce dev usar os comandos abaixos:
 
-In the project directory, you can run:
+### `git clone ` https://github.com/josaphamorim07/frontend-punk-api.git
 
-### `npm start`
+### `npm install `
+
 
