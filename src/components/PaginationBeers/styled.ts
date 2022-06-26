@@ -12,7 +12,7 @@ export const ContainerPagination = styled.div`
   justify-content: center;
   align-items: center;
 
-  @media (max-width: 325px) {
+  @media (max-width: 450px) {
     display: flex;
     flex-direction: column;
     padding-left: 5px;
