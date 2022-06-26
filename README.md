@@ -10,14 +10,14 @@
 
 ## ⚙️ Tools
  
- > Punk Api: https://punkapi.com/documentation/v2
- > Material UI: https://mui.com/pt/
+  * Punk Api: https://punkapi.com/documentation/v2
+  *  Material UI: https://mui.com/pt/
 
 ## ⚒️ Technologies used
 
->React js
->Styled Components
->Typescript
+ * React js
+ * Styled Components
+ * Typescript
   
  ## 🚀 To run this project, follow below:
 
